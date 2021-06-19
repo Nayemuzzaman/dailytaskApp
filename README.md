@@ -1,6 +1,9 @@
 # daily_task_list_app
 
-A new Flutter project.
+A new daily task Flutter project with sqlite database.
+
+![daily task](https://user-images.githubusercontent.com/12158468/122656704-ea2f8780-d17e-11eb-9437-55b1af6217ea.gif)
+
 
 ## Getting Started
 
